@@ -1,0 +1,4 @@
+repository "Mary@DoKn_GAMES@cloud"
+  path "/"
+    br "/main"
+    co "/main"
